@@ -1,0 +1,10 @@
+colorComments=255,128,192
+colorCustomKeywords=255,0,255
+colorDataType=0,255,255
+colorDoubleQuotes=255,0,0
+colorFunctions=255,128,0
+colorNormalText=255,255,128
+colorStatement=128,255,255
+colorTargets=255,255,255
+colorWhereBlock=0,255,0
+eclipse.preferences.version=1
