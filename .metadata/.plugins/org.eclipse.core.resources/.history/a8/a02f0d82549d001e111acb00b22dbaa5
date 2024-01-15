@@ -1,5 +1,0 @@
-package pet.park.Dao;
-
-public interface ContributorDao {
-
-}

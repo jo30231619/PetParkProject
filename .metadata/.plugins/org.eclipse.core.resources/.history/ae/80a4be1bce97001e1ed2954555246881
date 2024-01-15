@@ -1,9 +1,0 @@
-package pet.park.entity;
-
-import lombok.Data;
-
-@Embeddable
-@Data
-public class GeoLocation {
-	
-}
